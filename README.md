@@ -1,9 +1,17 @@
 
 ![alt text](https://a.storyblok.com/f/95455/1281x621/057ab305f2/card.png)
 
-I am a front-end developer with a passion for building user friendly and performant SPAs and JAMstack sites.
+# Hi There!👋
 
-https://www.claudiabdm.com/
+My name is Claudia Benito and I am **front-end developer** from Spain. I have one year experience building **SPAs** and **JAMstack** sites. I am an avid learner and passionated developer who enjoy working in multicultural environments and multidisciplinary teams.
+
+## Tech Stack
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiabdm&exclude_repo=CBDM_BioInfoChallenges,CBDM_BioinformaticsCourse)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## More
+www.claudiabdm.com
 
 <!--
 **claudiabdm/claudiabdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

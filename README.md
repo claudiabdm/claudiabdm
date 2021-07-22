@@ -1,4 +1,7 @@
-### Hi there 👋
+
+![alt text](https://a.storyblok.com/f/95455/1281x621/057ab305f2/card.png)
+
+I am a front-end developer with a passion for building user friendly and performant SPAs and JAMstack sites.
 
 https://www.claudiabdm.com/
 

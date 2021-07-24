@@ -7,7 +7,7 @@ My name is Claudia Benito and I am **front-end developer** from Spain. I have on
 
 ## Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiabdm&exclude_repo=CBDM_BioInfoChallenges,CBDM_BioinformaticsCourse)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiabdm&layout=compact&exclude_repo=CBDM_BioInfoChallenges,CBDM_BioinformaticsCourse)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## More

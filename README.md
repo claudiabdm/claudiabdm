@@ -1,7 +1,7 @@
 
 ![alt text](https://a.storyblok.com/f/95455/1281x621/057ab305f2/card.png)
 
-# Hi There!👋
+# Hola 👋
 
 My name is Claudia Benito and I am **front-end developer** from Spain. I have one year experience building **SPAs** and **JAMstack** sites. I am an avid learner and passionated developer who enjoy working in multicultural environments and multidisciplinary teams.
 

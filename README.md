@@ -1,5 +1,5 @@
 
-![alt text](https://a.storyblok.com/f/95455/1281x621/057ab305f2/card.png)
+![Claudia's web summary card](https://a.storyblok.com/f/95455/1281x621/057ab305f2/card.png)
 
 # Hola 👋
 

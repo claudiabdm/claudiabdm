@@ -3,7 +3,7 @@
 
 # Hola 👋
 
-My name is Claudia Benito and I am **front-end developer** from Spain. I have experience building **SPAs** and **JAMstack** sites. I am an avid learner and passionated developer who enjoy working in multicultural environments and multidisciplinary teams.
+My name is Claudia Benito and I am **front-end developer** from Spain. I have experience building **SPAs** and **JAMstack** sites. I am an avid learner and passionated developer who enjoy working in and multidisciplinary teams.
 
 ![Claudia's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiabdm&show_icons=true)
 

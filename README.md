@@ -1,9 +1,6 @@
-
-![Claudia's web summary card](https://a.storyblok.com/f/95455/1281x621/057ab305f2/card.png)
-
 # Hola 👋
 
-My name is Claudia Benito and I am **front-end developer** from Spain. I have experience building **SPAs** and **JAMstack** sites. I am an avid learner and diligent developer who enjoy working in multidisciplinary teams.
+My name is Claudia Benito and I am Software Developer from Spain (currently based in France) specialised in the **front end** with experience in product companies and strong fundamentals in modern web technologies.
 
 ## Portfolio
 

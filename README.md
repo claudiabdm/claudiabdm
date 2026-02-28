@@ -1,6 +1,6 @@
 # Hola 👋
 
-My name is Claudia Benito and I am software developer from Spain (currently based in France) specialised in the **front end** with experience in product companies, shipping performant, user-centred applications. My background in biology and UX mindset bring a detail-oriented, analytical approach to software development.
+My name is Claudia Benito and I am software developer from Spain (currently based in France) specialised in the **front end** with experience in **product** companies, shipping performant, **user-centred** applications.
 
 ## Portfolio
 

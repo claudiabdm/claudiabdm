@@ -1,4 +1,4 @@
-![Social card for Claudia Benito, Front-end Developer, with contact links for email (me@claudiabdm.com), GitHub (github.com/claudiabdm), and LinkedIn (linkedin.com/in/claudiabdm).](/social-card-without-avatar.png)
+![Social card for Claudia Benito, Front-end Developer, with contact links for email (me@claudiabdm.com), GitHub (github.com/claudiabdm), and LinkedIn (linkedin.com/in/claudiabdm).](/social-card-long.png)
 
 # Hola 👋
 
